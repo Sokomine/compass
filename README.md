@@ -8,5 +8,5 @@ the coordinates the compass is placed at.
 
 
 Craft: (nothing) steel ingot (nothing)
-       (nothing)    torch    (nothing)
-       (nothing)     wood    (nothing)
+<br>   (nothing)    torch    (nothing)
+<br>   (nothing)     wood    (nothing)
