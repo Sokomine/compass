@@ -1,4 +1,4 @@
-
+-- liszence: WTFPL
 minetest.register_node("compass:compass", {
 
         description = "Compass",

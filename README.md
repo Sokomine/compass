@@ -10,3 +10,5 @@ the coordinates the compass is placed at.
 Craft: (nothing) steel ingot (nothing)
 <br>   (nothing)    torch    (nothing)
 <br>   (nothing)     wood    (nothing)
+
+Liszence for code and textures: WTFPL
