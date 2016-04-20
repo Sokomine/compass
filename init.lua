@@ -9,7 +9,7 @@ minetest.register_node("compass:compass", {
         light_source = 14, -- so that you can see it in the dark
 
        after_place_node = function(pos, placer)
-                local meta = minetest.env:get_meta(pos);
+                local meta = minetest.get_meta(pos);
                 meta:set_string("infotext", "Compass at "..
                                 tostring( math.floor( pos.x ))..","..
                                 tostring( math.floor( pos.y ))..","..
